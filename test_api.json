@@ -1,0 +1,11 @@
+{
+    "model": "meta.llama3-70b",
+    "messages": [
+        {
+            "role": "user",
+            "content": "What is the weather like in Boston?"
+        }
+    ],
+    "max_tokens": 500,
+    "temperature": 0.1
+}
